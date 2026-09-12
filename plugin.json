@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "stele",
+  "version": "1.0.0",
+  "description": "Shared project memory and tasks for your AI agents.",
+  "author": {
+    "name": "Stele AI",
+    "url": "https://stele-ai.dev"
+  },
+  "homepage": "https://stele-ai.dev/docs",
+  "repository": "https://github.com/Stele-Dev/stele-mcp-connector",
+  "license": "MIT",
+  "keywords": ["memory", "context", "knowledge-graph", "tasks", "handoff", "mcp"]
+}
