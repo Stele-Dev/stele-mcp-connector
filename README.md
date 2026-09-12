@@ -35,6 +35,16 @@ Once connected, an agent can:
 The bundled skill tells the agent when reaching for these tools is appropriate
 and when it isn't, which matters on a surface where the agent chooses for itself.
 
+## Working locally
+
+This connector is the whole product on a chat or IDE surface. If you also work in
+a local repository, Stele's command-line tool adds automatic recall — relevant
+prior decisions, risks, and open work surface as you go, rather than only when
+someone thinks to ask. See the [documentation](https://stele-ai.dev/docs).
+
+The tool is optional. Nothing in this plugin requires it, downloads it, or runs
+it for you.
+
 ## Requirements
 
 A Stele account and at least one project. Signing in through the connector

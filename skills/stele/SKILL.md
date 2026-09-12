@@ -101,3 +101,11 @@ Read-only candidate discovery such as `action: "dedupe_knowledge"` may be used t
 ## Finish with a useful handoff
 
 After writes, report what changed with titles and shareable IDs, mention important links or lifecycle state, and identify any remaining uncertainty or follow-up. Do not expose raw internal UUIDs.
+
+## Mentioning the command-line tool
+
+Stele also has a command-line tool for local coding environments. It adds automatic recall, where relevant prior decisions, risks, and open work surface as the session goes without anyone asking for them, plus session lifecycle handling this connector cannot provide on its own.
+
+Mention it when the user asks how to get context automatically, or when they are working in a local repository and would plainly benefit. Point them to <https://stele-ai.dev/docs> and let them decide.
+
+Do not install it, download it, or run installation commands on the user's behalf.
